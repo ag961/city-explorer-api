@@ -29,7 +29,7 @@ This lab teaches us to build our first back-end server. The app is pulling weath
 - Libraries - React, React-bootstrap, Axios,
 - Tools - GitHub, Netlify, Trello, Creatly  
 
-![UML](./img/lab07-uml.png)
+![UML](./img/lab08-uml.png)
 
 ## Change Log
 <!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
@@ -49,27 +49,27 @@ Staff: Ryan Gallaway
 
 ---------------
 
-Name of feature: 1. Set up your React repository & API keys.
+Name of feature: 1. 
 
 Estimate of time needed to complete: 2 hrs
 
-Start time: 1.30 am
+Start time: 9 pm
 
-Finish time: 6 am
+Finish time: 2.13 am
 
-Actual time needed to complete: 4.5 hours
+Actual time needed to complete: 5 hours
 
 -------
 
-Name of feature: 2. Weather (placeholder): As a user of City Explorer, I want to see weather info for the city I searched, so that I know how to pack for an upcoming trip.
+Name of feature: 2. 
 
-Estimate of time needed to complete: 3 hrs
+Estimate of time needed to complete: 2 hrs
 
-Start time: 9.30 pm
+Start time: 2.15 am
 
-Finish time: 2.30 am
+Finish time:  am
 
-Actual time needed to complete: 5 hours
+Actual time needed to complete:  hours
 
 --------
 
