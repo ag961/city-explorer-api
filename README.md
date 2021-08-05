@@ -1,11 +1,12 @@
 # City Explorer App (Lab 07)
 
+**Deployed URL**: https://city-explorer-ayrat.netlify.app/
 **Author**: Ayrat Gimranov
 **Version**: 1.0.2 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
-This lab teaches us to build our first back-end server. The app is pulling weather data from our locally built back-end and displaying the result by dates, as well as handling errors.
+In this lab we replace weather placeholder with data from weather API, that is requested by our back-end server, and then processed and sent back to front-end. We also add info about movies whose title contains the name of the city we searched for.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
@@ -27,7 +28,7 @@ This lab teaches us to build our first back-end server. The app is pulling weath
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
 - Langauges - HTML, CSS, JavaScript
 - Libraries - React, React-bootstrap, Axios,
-- Tools - GitHub, Netlify, Trello, Creatly  
+- Tools - GitHub, Netlify, Heroku, Trello, Creatly  
 
 ![UML](./img/lab08-uml.png)
 
@@ -49,7 +50,7 @@ Staff: Ryan Gallaway
 
 ---------------
 
-Name of feature: 1. 
+Name of feature 1: Weather (live): As a user of City Explorer, I want to see weather info for the city I searched, so that I know how to pack for an upcoming trip.
 
 Estimate of time needed to complete: 2 hrs
 
@@ -61,24 +62,24 @@ Actual time needed to complete: 5 hours
 
 -------
 
-Name of feature: 2. 
+Name of feature 2: Movies: As a user of City Explorer, I want to see info about movies related to the city I searched, so that I can learn more about the destination.
 
-Estimate of time needed to complete: 2 hrs
+Estimate of time needed to complete: 4 hrs
 
 Start time: 2.15 am
 
-Finish time:  am
+Finish time: 8.20 am
 
-Actual time needed to complete:  hours
+Actual time needed to complete:  6 hours
 
 --------
 
-Name of feature: Errors (revisited): As a user, I want clear messages if something goes wrong so I know if I need to make any changes or try again in a different manner.
+Name of feature 3: Publish: Deploy your server. As a user, I want to access the City Explorer application on the web, so that anyone can explore from anywhere.
 
-Estimate of time needed to complete: 2 hrs
+Estimate of time needed to complete: 1 hr
 
-Start time: 2.30 am
+Start time: 8.30 am
 
-Finish time: 4 am
+Finish time: 9:50 am
 
-Actual time needed to complete: 1.5 hrs
+Actual time needed to complete: 1.20
