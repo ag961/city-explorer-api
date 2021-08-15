@@ -1,6 +1,6 @@
 # City Explorer App (Lab 10)
 
-**Deployed URL**: https://city-explorer-ayrat.netlify.app/
+**Deployed URL**: https://city-explorer-ayrat.herokuapp.com/
 **Author**: Ayrat Gimranov
 **Version**: 1.0.5
 
